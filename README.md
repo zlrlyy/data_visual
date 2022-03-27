@@ -148,7 +148,7 @@ npm run serve
 
 ## 生产环境打包
 ```
-npm run build
+yarn build
 ```
 ### 项目信息
 
